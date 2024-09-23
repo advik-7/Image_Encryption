@@ -1,0 +1,19 @@
+adversarial-cryptographic-model/
+│
+├── README.md                 
+├── LICENSE                  
+├── requirements.txt          
+├── encrypt.py                # Encryption script
+├── decrypt.py                # Decryption script
+├── key_management/           # Blockchain-based key management
+│   └── key_manager.py
+├── encryption_algorithms/    # Custom neural network and quantum-safe encryption algorithms
+│   └── neural_net_encryption.py
+│   └── quantum_safe_encryption.py
+├── tests/                    # Unit tests for the project
+│   └── test_encryption.py
+├── .github/                  # GitHub Actions and CI configurations
+│   └── workflows/
+│       └── ci.yml            # Continuous Integration pipeline
+└── docker/                   # Docker setup for containerization
+    └── Dockerfile

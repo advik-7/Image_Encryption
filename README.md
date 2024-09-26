@@ -10,3 +10,6 @@ Dynamic Algorithm Selection: Automatically adapts encryption methods based on ne
 Adversarial Defense: Incorporates adversarial training to protect against attacks aimed at breaking encryption.
 Key-Image Encryption: Uses an image as the encryption key for added unpredictability and security.
 Blockchain Key Management: Secure, decentralized management of encryption keys using blockchain technology.
+
+
+![Image](https://github.com/user-attachments/assets/2141d59a-9541-4866-8a7c-3c11c385f445)

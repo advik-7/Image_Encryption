@@ -2,7 +2,10 @@ adversarial-cryptographic-model/
 │
 ├── README.md                 
 ├── LICENSE                  
-├── requirements.txt          
+├── requirements.txt   
+├── ConditionalCyclicGAN.txt
+├── Generator.py
+├── Discriminator.py
 ├── encrypt.py                # Encryption script
 ├── decrypt.py                # Decryption script
 ├── key_management/           # Blockchain-based key management

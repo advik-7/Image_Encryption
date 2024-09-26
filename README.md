@@ -1,4 +1,4 @@
-# Image_Encryption
+# Image_Encryption using Conditional Cycle Gan using encoder-decoder structure
 Adversarial Cryptographic Model for Secure Image Transmission
 Overview
 This project implements an advanced cryptographic model that encrypts images being transmitted over insecure networks. The model combines neural network-based encryption with quantum-safe cryptography to ensure future-proof security. It dynamically adjusts encryption strategies based on real-time network conditions and threat levels, using blockchain for decentralized key management and storage.

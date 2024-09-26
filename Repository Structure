@@ -4,10 +4,10 @@ adversarial-cryptographic-model/
 ├── LICENSE                  
 ├── requirements.txt   
 ├── ConditionalCyclicGAN.txt
-├── Generator.py
-├── Discriminator.py
-├── encrypt.py                # Encryption script
-├── decrypt.py                # Decryption script
+├── encrypt/   # Encryption script
+    └── Generator.py
+├── decrypt/             # Decryption script
+    └── Discriminator.py
 ├── key_management/           # Blockchain-based key management
 │   └── key_manager.py
 ├── encryption_algorithms/    # Custom neural network and quantum-safe encryption algorithms

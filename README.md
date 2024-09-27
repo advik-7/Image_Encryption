@@ -12,3 +12,6 @@ Key-Image Encryption: Uses an image as the encryption key for added unpredictabi
 Blockchain Key Management: Secure, decentralized management of encryption keys using blockchain technology
 .![Image (1)](https://github.com/user-attachments/assets/aa92fe26-db01-4bfb-ba91-76260d51b143)
 
+HOW IT WORKS
+The generator model learns to transform an input image into an encrypted form based on a conditional key. This transformation is achieved through a series of convolutional layers that process the image data in a way similar to how traditional encryption algorithms operate by scrambling the data.
+

@@ -1,15 +1,24 @@
 # Image_Encryption using Conditional Cycle Gan using encoder-decoder structure
 Adversarial Cryptographic Model for Secure Image Transmission
-Overview
+**Overview**
 This project implements an advanced cryptographic model that encrypts images being transmitted over insecure networks. The model combines neural network-based encryption with quantum-safe cryptography to ensure future-proof security. It dynamically adjusts encryption strategies based on real-time network conditions and threat levels, using blockchain for decentralized key management and storage.
 
-Key Features
+**Key Features**
 Neural Network Encryption: Differentiable encryption using custom-trained neural networks for enhanced security.
 Quantum-Safe Cryptography: Utilizes quantum-resistant algorithms to safeguard against future quantum threats.
 Dynamic Algorithm Selection: Automatically adapts encryption methods based on network conditions and detected threats.
 Adversarial Defense: Incorporates adversarial training to protect against attacks aimed at breaking encryption.
 Key-Image Encryption: Uses an image as the encryption key for added unpredictability and security.
-Blockchain Key Management: Secure, decentralized management of encryption keys using blockchain technology
+
+**USPs**
+
+**Quantum-Resistant Encryption**: By integrating hash-based cryptography (like SHA-256) for key generation, your project aims to provide encryption that is resilient to quantum computing attacks, offering enhanced security.
+
+**Robust Encryption-Decryption Cycle**: Leveraging a CycleGAN architecture, your model ensures reliable encryption and accurate decryption, making the transformation process fully reversible while maintaining the integrity of the original data.
+
+**Key-Conditioned GAN**: The use of a conditional key input enables flexible, key-dependent encryption, where the encryption and decryption process is controlled by specific keys, adding a customizable layer of security.
+
+**Generative Encryption Approach**: Instead of traditional encryption algorithms, your project applies generative adversarial networks (GANs) for encrypting images, presenting a novel deep learning-based approach to cryptography.
 .![Image (1)](https://github.com/user-attachments/assets/aa92fe26-db01-4bfb-ba91-76260d51b143)
 
 **HOW IT WORKS**
